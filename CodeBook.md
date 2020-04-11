@@ -4,7 +4,6 @@ author: "Abhay"
 date: "4/11/2020"
 output:
   html_document: default
-  pdf_document: default
 ---
 
 ### Data source
